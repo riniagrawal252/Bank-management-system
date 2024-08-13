@@ -21,6 +21,6 @@ Frontend: JSP (JavaServer Pages), HTML, CSS
 
 Backend: Java Servlets
 
-Database: MySQL (or another relational database)
+Database: MySQL 
 
-Build Tool: Apache Maven 
+Build Tool: Apache 
